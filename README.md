@@ -1,3 +1,4 @@
 # MyTest
 My First GitHub - for testing
-My Name = Tae
+My Name = Kratae
+My Car = Toyo
